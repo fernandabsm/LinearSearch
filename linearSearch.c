@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/* search in vectors */
 /* linear seach function where v is a vector, size is the size of vector and element is the element that is sought */
 int linearSearch(int* v, int size, int element)
 {
